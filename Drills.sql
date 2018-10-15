@@ -37,7 +37,7 @@ select
 ;
 
 /*Drill 7*/
-database create drill7;
+create database drill7;
 use drill7
 
 CREATE TABLE drill7_table1 (
